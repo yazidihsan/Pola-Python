@@ -198,6 +198,9 @@ elif pil == 9 :
         print("")
         bar2 += 1
 
+else:
+    print("Pilihan Salah, harusnya pilih opsi dari 1) - 9) saja")
+
     
 
 
